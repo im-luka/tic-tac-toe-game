@@ -2,8 +2,6 @@
 
 WPF desktop application for playing a simple, user-friendly Tic-Tac-Toe game.
 
-Stack used: C#, .NET, WPF
-
 Project Screenshots:
 
 ![create1](https://user-images.githubusercontent.com/46372998/177851160-72739174-9a72-4233-bd9e-d659bd2101ed.PNG)
